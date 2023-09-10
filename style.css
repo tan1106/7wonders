@@ -20,56 +20,56 @@ body, html{
     background-attachment: fixed;
 }
 .pimg0{
-    background-image: url('../images/start.jpg');
+    background-image: url('./images/start.jpg');
     width: 100%;
     height: 800px;
     background-size: 100% 100%;
     
 }
 .pimg1{
-    background-image: url('../images/tag-mahal.jpg');
+    background-image: url('./images/tag-mahal.jpg');
     width: 100%;
     height: 600px;
     background-size: 100% 100%;
 }
 .pimg2{
-    background-image: url('../images/great-wall-of-china.jpg');
+    background-image: url('./images/great-wall-of-china.jpg');
     width: 100%;
     height: 600px;
     background-size: 100% 100%;
 }
 .pimg3{
-    background-image: url('../images/chichen.jpg');
+    background-image: url('./images/chichen.jpg');
     width: 100%;
     height: 600px;
     background-size: 100% 100%;
 }
 .pimg4{
-    background-image: url('../images/colosum.jpg');
+    background-image: url('./images/colosum.jpg');
     width: 100%;
     height: 600px;
     background-size: 100% 100%;
 }
 .pimg5{
-    background-image: url('../images/machu-pichu.jpg');
+    background-image: url('./images/machu-pichu.jpg');
     width: 100%;
     height: 600px;
     background-size: 100% 100%;
 }
 .pimg6{
-    background-image: url('../images/petra.jpg');
+    background-image: url('./images/petra.jpg');
     width: 100%;
     height: 600px;
     background-size: 100% 100%;
 }
 .pimg7{
-    background-image: url('../images/redeemer.jpg');
+    background-image: url('./images/redeemer.jpg');
     width: 100%;
     height: 600px;
     background-size: 100% 100%;
 }
 .pimg8{
-    background-image: url('../images/end.jpg');
+    background-image: url('./images/end.jpg');
     width: 100%;
     height: 600px;
     background-size: 100% 100%;
